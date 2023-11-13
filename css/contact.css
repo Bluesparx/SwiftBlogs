@@ -1,0 +1,27 @@
+.content-cont {
+  height: 70vh;
+  width: 60vw;
+  /* background-color: rgb(212, 197, 221); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2vw auto;
+  padding: 9px;
+}
+
+.contact-form {
+  height: 80vh;
+  justify-content: center;
+}
+
+.contact-box {
+  text-align: center;
+  background-color: rgba(110, 9, 141, 0.2);
+  border-radius: 45px;
+  height: inherit;
+  width: 60vw;
+}
+
+.contact-box h1 {
+  padding: 10px 0px 5px 0px;
+}
